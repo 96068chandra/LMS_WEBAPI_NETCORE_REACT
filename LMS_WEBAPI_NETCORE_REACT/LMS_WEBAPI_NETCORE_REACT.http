@@ -1,0 +1,6 @@
+@LMS_WEBAPI_NETCORE_REACT_HostAddress = http://localhost:5188
+
+GET {{LMS_WEBAPI_NETCORE_REACT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
